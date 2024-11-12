@@ -1,6 +1,6 @@
 - Hi, I’m Althaf Tristan Maheswara
 - I’m interested in Game Developing, Mostly Unity Game Developing
-- I’m currently learning Figma,Blender, and more Unity Engine
+- I’m currently learning Figma, Blender, and more Unity Engine
 - You can reach me through discord, my username are "volxess"
 - Pronouns: he/him
 - Fun fact: there is no fun fact.
