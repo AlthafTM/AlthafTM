@@ -6,7 +6,7 @@ Game developer based in Surakarta, Indonesia, building games with Unity and C#. 
 
 ## Selected work
 
-- **[Transcribr](https://github.com/AlthafTM/transcribr)** — A local Windows dictation app that turns speech into text in the active input field, with support for **English** and **Indonesian**
+- **[Dictately](https://github.com/AlthafTM/transcribr)** — A local Windows dictation app that turns speech into text in the active input field, with support for **English** and **Indonesian**
 - **[Games & prototypes](https://althafm.is-a.dev/#work)** — Bounce!, RogueBlast: Pixel Puzzle, Undertaker, and Exsilva Project
 - **[Current prototype](https://althafm.is-a.dev/#current)** — A browser-based 3D pixel scene exploring lighting, atmosphere, and interactive environments
 
