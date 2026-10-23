@@ -1,6 +1,6 @@
 # Althaf Tristan Maheswara
 
-Game developer based in Surakarta, Indonesia, building games with Unity and C#. I'm also learning to build desktop apps and tools.
+Game developer & Software Engineer based in Surakarta, Indonesia, building games with Unity and C#. I'm also learning to build desktop apps and tools.
 
 [View my portfolio](https://althafm.is-a.dev) · [Play my games](https://althafm.itch.io) · [YouTube](https://www.youtube.com/@AlthafGameDev)
 
