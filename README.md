@@ -20,3 +20,7 @@ Game Developer & Software Engineer based in Indonesia, building games with Unity
 ## Contact
 
 For project inquiries and collaboration, visit my [portfolio](https://althafm.is-a.dev/#contact) or reach me on Discord: **volxess**
+
+![A sunlit Unity scene with grass, flowers, and three colorful cubes](assets/unity-project-preview.png)
+
+*A sneak peek at the Unity project I'm currently working on.*
