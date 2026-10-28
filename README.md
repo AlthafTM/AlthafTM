@@ -23,8 +23,13 @@ For project inquiries and collaboration, visit my [portfolio](https://althafm.is
 
 ---
 
+<details>
+<summary>Current project sneak peek</summary>
+
 ![A sunlit Unity scene with grass, flowers, and three colorful cubes](assets/unity-project-preview.png)
 
 *A sneak peek at the Unity project I'm currently working on.*
 
 [Play the demo](https://althafm.is-a.dev/play/)
+
+</details>
