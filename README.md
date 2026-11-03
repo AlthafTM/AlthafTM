@@ -19,7 +19,7 @@ Game Developer & Software Engineer based in Indonesia, building games with Unity
 
 ## Contact
 
-For project inquiries and collaboration, visit my [portfolio](https://althafm.is-a.dev/#contact) or reach me on Discord: **volxess**
+For project inquiries and collaboration, visit my [portfolio](https://althafm.is-a.dev/#contact) or reach me on Discord: **volxes**
 
 ---
 
