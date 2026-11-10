@@ -6,11 +6,11 @@ Game Developer & Software Engineer based in Indonesia, building games with Unity
 
 ## Selected work
 
-- **[JualinAja](https://github.com/AlthafTM/jualinaja)**: A web project for buying and selling locally. List items you own, search nearby listings, or post a request with a budget for sellers to respond to. [Try the demo](https://althaftm.github.io/jualinaja/).
 - **[Games & prototypes](https://althafm.is-a.dev/#work)**: Bounce!, RogueBlast: Pixel Puzzle, Undertaker, and Exsilva Project
 - **[Current prototype](https://althafm.is-a.dev/#current)**: A browser-based 3D pixel scene exploring lighting, atmosphere, and interactive environments
 - **[Dictately](https://github.com/AlthafTM/dictately)**: A local Windows dictation app that turns speech into text in the active input field, with support for **English** and **Indonesian**
 - **[Dropflip](https://github.com/AlthafTM/dropflip)**: A Windows drop-zone app for local file conversion and compression
+- **[JualinAja](https://github.com/AlthafTM/jualinaja)**: A web project for buying and selling locally. List items you own, search nearby listings, or post a request with a budget for sellers to respond to.
 
 ## Skills & tools
 
